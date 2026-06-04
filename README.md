@@ -1,16 +1,35 @@
-# 💫 Hi 👋, I'm Pritiprasanna Nayak
-**A passionate Software Engineer  ||  India**
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</p>
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+                  
+  <br>
 
-Email Me 👉 ✉️ **pikun9875@.com** For Collaboration/Project or Anything Else. 😊😊
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=50&lines=I'm+Juhi+Pathak;I'm+Software+Developer;I'm+Frontend+Developer;I'm+Graphic+Designer;I'm+@+thelone.artist"></p>
+<h3 align="center">Java FullStack Intern at Destination Carrer</h3>
 
-- 🔭 **I’m currently working on: Android Devlopment**
-- 🌱 **I’m currently learning: Flutter Framework**
-- 👯 **I’m looking to collaborate on: Farmer Connect**
-- 🤔 **I’m looking : Internships** 
-- 💬 **Ask me about: Anything**
-- 📫 **How to reach me: pikun9875@gmail.com**
-- 😄 **Pronouns:Mr.X** 
-- ⚡ **Fun fact:I Love BUGS** 
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+                  
+  <br>
+
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
+
+<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
+<pre>
+💻 I am a self taught Full Stack Developer and a Machine Learning Developer
+📚 I have a Bachelors in Computer Science from the University Cadi Ayyad at Morocco
+📝 I have a strong interest in Data Science and Artificial Intelligence
+🔭 Working on Deep Learning & Machine Learning
+🌱 Learning about Computer Vision and Machine Learning stuff
+🌟 Main languages: Python, JavaScript
+🚩 Interested in Full Stack Machine Learning Application development
+🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity .</b> </a>
+</pre>
+<hr>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pritiprasannanayak) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pikun9875@gmail.com) 
